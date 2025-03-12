@@ -11,7 +11,7 @@ Aquí tienes la documentación en formato **README.md** para tu proyecto en GitH
 Una calculadora científica con estilo retro, implementada en Flutter sin dependencias externas. Incluye operaciones básicas y funciones científicas, con variables en español y diseño inspirado en dispositivos antiguos.
 
 <p align="center">
-  <img src="screenshot.png" alt="Captura de pantalla" width="300">
+  <img src="/Screenshot 2025-03-11 at 19-01-44 Calculadora.png" alt="Captura de pantalla" width="300">
 </p>
 
 ## Características ✨
