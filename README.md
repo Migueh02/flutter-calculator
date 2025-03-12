@@ -3,9 +3,10 @@
 <a> Una calculadora científica con estilo retro, implementada en Flutter sin dependencias externas. Incluye operaciones básicas y funciones científicas, con variables en español y diseño inspirado en dispositivos antiguos.<a>
 
 <p align="center">
-  <img src="Screenshot 2025-03-11 at 19-01-44 Calculadora.png" alt="Captura de pantalla" width="200">
+  <img src="Screenshot 2025-03-11 at 19-01-44 Calculadora.png" alt="Captura de pantalla" width="100">
 </p>
-----
+
+---
 
 ```markdown
 # Calculadora Científica Retro en Flutter
