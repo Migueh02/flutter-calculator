@@ -27,11 +27,11 @@
 ### Pasos
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/calculadora-retro-flutter.git
+   git clone https://github.com/Migueh02/flutter-calculator.git
    ```
 2. Navega al directorio del proyecto:
    ```bash
-   cd calculadora-retro-flutter
+   cd flutter-calculator
    ```
 3. Instala las dependencias:
    ```bash
@@ -60,7 +60,7 @@
 ## Tecnologías 🛠️
 - **Flutter**: Framework para aplicaciones multiplataforma.
 - **Dart**: Lenguaje de programación.
-- **Google Fonts**: Fuente `Pixelify Sans` para el estilo retro.
+- **Google Fonts**: Fuente `Tiny5` para el estilo retro.
 - **Aproximaciones matemáticas**: Series de Taylor y método de Newton-Raphson.
 
 ## Licencia 📄
@@ -83,7 +83,7 @@ Este proyecto está bajo la licencia MIT. Consulta el archivo [LICENSE](LICENSE)
 
 ### Estructura recomendada del repositorio:
 ```
-    calculadora-flutter/
+    flutter-calculator/
     ├── lib/
     │   └── main.dart
     ├── assets/
