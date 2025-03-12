@@ -83,7 +83,7 @@ Este proyecto está bajo la licencia MIT. Consulta el archivo [LICENSE](LICENSE)
 
 ### Estructura recomendada del repositorio:
 ```
-    calculadora-retro-flutter/
+    calculadora-flutter/
     ├── lib/
     │   └── main.dart
     ├── assets/
